@@ -1,0 +1,11 @@
+Abhishek Singhania@@@@@@
+OS:Linux -
+Browser:Chrome 76 (76.0.3809.132)
+Resolution:1366 x 768
+Flash:undefined
+soundOut:false
+soundIn:false
+UpSpeed:688 kBbs
+DownSpeed:1765 kBps
+
+Processor:Core : 4<br>Estimated speed: 0.869GHZ

@@ -1,0 +1,11 @@
+raj@@@@@@
+OS:Windows 7
+Browser:Chrome 78 (78.0.3904.97)
+Resolution:1360 x 768
+Flash:undefined
+soundOut:false
+soundIn:false
+UpSpeed:16107 kBbs
+DownSpeed:11187 kBps
+
+Processor:Core : 4<br>Estimated speed: 2.564GHZ

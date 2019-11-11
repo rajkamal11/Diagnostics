@@ -1,0 +1,11 @@
+sf@@@@@@
+OS:Linux -
+Browser:Chrome 73 (73.0.3683.86)
+Resolution:1366 x 768
+Flash:undefined
+soundOut:true
+soundIn:true
+UpSpeed:559 kBbs
+DownSpeed:2543 kBps
+
+Processor:Core : 4<br>Estimated speed: 1.245GHZ

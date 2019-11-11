@@ -1,0 +1,11 @@
+Aditya Gupta@@@@@@
+OS:Mac OS X 10_14_1
+Browser:Chrome 78 (78.0.3904.97)
+Resolution:1440 x 900
+Flash:undefined
+soundOut:false
+soundIn:false
+UpSpeed:1665 kBbs
+DownSpeed:2728 kBps
+
+Processor:Core : 4<br>Estimated speed: 1.768GHZ

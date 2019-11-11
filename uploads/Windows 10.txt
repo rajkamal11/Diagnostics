@@ -1,0 +1,10 @@
+Windows 10@@@@@@
+OS:Windows 10
+Browser:Chrome 78 (78.0.3904.97)
+Resolution:1536 x 864---------------------
+Flash:undefined
+soundOut:false
+soundIn:false
+UpSpeed:449 kBbs
+DownSpeed:<b>Calculating...Wait!</b>
+Processor:Core : 4<br>Estimated speed: 1.844GHZ
